@@ -1,0 +1,25 @@
+#myProgress {
+    width: 55%;
+    background-color: #AAAAAA;
+}
+#myBar {
+    width: 1%;
+    height: 30px;
+    background-color: #0095FF;
+}
+
+.click {
+	font-family: 15px "opensans-regular", sans-serif;
+	color: #FFFFFF;
+	background: #0095FF;
+	padding: 6px 12px;
+	border: none;
+	cursor: pointer;
+	height: auto;
+	display: inline-block;
+}
+
+.click:hover {
+	color:#0095FF;
+	background: #EEEEEE;
+}
